@@ -97,6 +97,7 @@ div > input{
   flex-wrap: wrap;
   justify-content: center;
   gap: 20px;
+  margin-bottom: 10%;
 }
 .imgs{
   width: 200px;
